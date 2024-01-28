@@ -4,6 +4,10 @@ author: "jenj"
 date: "2024-01-28"
 output: html_document
 ---
+```{r}
+library(tidyverse)
+
+```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
